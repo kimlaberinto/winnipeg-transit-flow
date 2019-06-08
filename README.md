@@ -12,7 +12,7 @@ I decided to be open regarding these ethical considerations and any actions that
 
 Thoughts, critiques, questions and suggestions on these considerations are warmly welcome. I openly admit that I am not perfect and there will always be much to learn. If you have any such feedback to provide please let me know. You are also welcome to raise an issue on GitHub.
 
-Please see [EthicalConsiderations.ipynb](EthicalConsiderations.ipynb) for more information.
+Please see [EthicalConsiderations.md](EthicalConsiderations.md) for more information.
 
 ## Built with
 
