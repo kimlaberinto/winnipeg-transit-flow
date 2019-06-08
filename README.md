@@ -12,6 +12,7 @@ Explore Winnipeg Transit's Open Data. Winnipeg Transit Flow Visualization.
 ## Sources / References
 
 ## Licensing
+This project is licensed under the MIT License - see the file [LICENSE](LICENSE) file for details
 
 ## Acknowledgements
 * Thank you to GitHub users jenha and PurpleBooth for their README templates. I used theirs for inspiration for headings.
