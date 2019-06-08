@@ -5,6 +5,13 @@ Author: [Kim Laberinto](https://github.com/kimlaberinto)
 ## Objective
 
 ## Ethical Considerations
+As I had the intention of sharing these visualizations with others, I wanted to take precautions to ensure that these visualizations are not misleading.
+
+I decided to be open regarding these ethical considerations and any actions that I took regarding them.
+
+Thoughts, critiques, questions and suggestions on these considerations are warmly welcome. I openly admit that I am not perfect and there will always be much to learn. If you have any such feedback to provide please let me know. You are also welcome to raise an issue on GitHub.
+
+Please see [EthicalConsiderations.ipynb](EthicalConsiderations.ipynb) for more information.
 
 ## Built with
 
