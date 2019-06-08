@@ -1,5 +1,6 @@
 # Winnipeg Transit Flow Visualization
 Explore Winnipeg Transit's Open Data. Winnipeg Transit Flow Visualization.
+Author: [Kim Laberinto](https://github.com/kimlaberinto)
 
 ## Objective
 
