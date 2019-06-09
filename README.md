@@ -4,6 +4,7 @@ Explore Winnipeg Transit's Open Data. Winnipeg Transit Flow Visualization.
 Author: [Kim Laberinto](https://github.com/kimlaberinto)
 
 ## Objective
+* Visualize on a map of Winnipeg, the scheduled (simulated) movement of buses throughout a day for Winnipeg Transit buses.
 
 ## Ethical Considerations
 As I had the intention of sharing these visualizations with others, I wanted to take precautions to ensure that these visualizations are not misleading.
